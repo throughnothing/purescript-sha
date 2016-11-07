@@ -1,0 +1,29 @@
+{
+  "name": "purescript-crypt-sha",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-eff": "^2.0.0",
+    "purescript-prelude": "^2.1.0",
+    "purescript-arraybuffer-types": "^0.2.0",
+    "purescript-arraybuffer": "jacereda/purescript-arraybuffer#61a273192b889784ddc1c18ad4ad9dd7403249e2",
+    "purescript-encoding": "menelaos/purescript-encoding#8a36dbc7708d38f6ba9cb431d80ed3d0a8f4cb07"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^2.0.0",
+    "purescript-assert": "^2.0.0"
+  },
+  "resolutions": {
+    "purescript-eff": "^2.0.0",
+    "purescript-prelude": "^2.1.0",
+    "purescript-maybe": "^2.0.0",
+    "purescript-console": "^2.0.0",
+    "purescript-monoid": "^2.0.0",
+    "purescript-invariant": "^2.0.0",
+    "purescript-control": "^2.0.0"
+  }
+}
