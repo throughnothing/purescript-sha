@@ -1,4 +1,4 @@
-# purescript-crypt-sha
+# purescript-sha
 [![Build status](https://travis-ci.org/throughnothing/purescript-sha.svg?branch=master)](https://travis-ci.org/throughnothing/purescript-sha)
 
 This is a [jsSHA](https://caligatio.github.io/jsSHA/) wrapper for purescript,
